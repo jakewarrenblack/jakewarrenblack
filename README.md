@@ -25,35 +25,35 @@
               HTML<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
             </td>
-            <td>
-              CSS
+            <td align="center">
+              CSS<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
             </td>
-            <td>
-              JavaScript
+            <td align="center">
+              JavaScript<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
             </td>
-            <td>
-              PHP
+            <td align="center">
+              PHP<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
             </td>
-            <td>
-              MySQL
+            <td align="center">
+              MySQL<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
             </td>
-            <td>
-              Java
+            <td align="center">
+              Java<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
             </td>
-            <td>
-              Bootstrap
+            <td align="center">
+              Bootstrap<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
             </td>
-            <td>
-              Phaser.js
+            <td align="center">
+              Phaser.js<br>
             </td>
-            <td>
-              Bash
+            <td align="center">
+              Bash<br>
               <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
             </td>
         </tr>
@@ -68,12 +68,14 @@
             <h5>Other tools</h5>
     <table>
         <tr>
-            <td>Adobe Illustrator<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </td>
+            <td align="center">
+                Adobe Illustrator<br>
+                <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </td>
             <td>
-              Adobe Photoshop
+              Adobe Photoshop<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
            </td>
-          <td>
+            <td align="center">
             Figma<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
           </td>
         </tr>
