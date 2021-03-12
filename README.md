@@ -13,6 +13,7 @@
         <b>Skills/Tools</b>
     </summary>
     <h5>Languages/Frameworks</h5>
+    <br>
     <table>
         <tr>
             <td>
@@ -53,6 +54,7 @@
         </tr>
     </table>
         <h5>Editors/IDEs</h5>
+    <br>
     <table>
         <tr>
             <td>Visual Studio Code</td>
@@ -60,6 +62,7 @@
         </tr>
     </table>
             <h5>Other tools</h5>
+    <br>
     <table>
         <tr>
             <td>Adobe Illustrator<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </td>
