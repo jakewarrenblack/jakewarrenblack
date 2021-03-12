@@ -21,8 +21,8 @@
     <h5>Languages/Frameworks</h5>
     <table>
         <tr>
-            <td>
-              HTML
+            <td align="center">
+              HTML<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
             </td>
             <td>
