@@ -8,8 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jake-wb" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jake-wb" height="30" width="40"/>LinkedIn
-  </a>
+[![Linkedin Badge](https://img.shields.io/badge/-jake-wb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jake-wb/)](https://www.linkedin.com/in/jake-wb/)
 </p>
 
 
