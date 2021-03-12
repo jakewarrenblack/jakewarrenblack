@@ -7,7 +7,7 @@
 <p><em>Creative Computing student at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
 </em></p>
 
-<a href="https://www.linkedin.com/in/jake-wb/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/jake-wb/"><button>LinkedIn</button></a>
 
 
 ### My skills
