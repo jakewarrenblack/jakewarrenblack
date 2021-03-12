@@ -42,7 +42,17 @@
         </tr>
     </table>
   </details>
-  
+    <details>
+    <summary>
+        <b>Education</b>
+    </summary>
+    <table>
+        <tr>
+            <td>Web Design & Digital Media (Level 5 Certificate, 2019)</td>
+            <td>Creative Computing (Level 8 Bsc, 2019-Present)</td>
+        </tr>
+    </table>
+  </details>
   
   <details>
     <summary>
