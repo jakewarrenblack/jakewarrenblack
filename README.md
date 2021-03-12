@@ -99,7 +99,7 @@
 </details>
 
 <details>
-  <summary><b>Languages and Tools:</b></summary>
+  <summary><b>Stats:</b></summary>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakewarrenblack&show_icons=true&locale=en&layout=compact" alt="jakewarrenblack" />
 </p>
