@@ -51,9 +51,6 @@
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
             </td>
             <td align="center">
-              Phaser.js<br>
-            </td>
-            <td align="center">
               Bash<br>
               <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
             </td>
