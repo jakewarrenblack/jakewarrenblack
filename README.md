@@ -62,7 +62,7 @@
             <td align="center">Visual Studio Code<br>
                 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F674621%2F71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png&f=1&nofb=1" width="40" height="40"/>
             </td>
-            <td>IntelliJ IDEA<br>
+            <td align="center">IntelliJ IDEA<br>
                 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fintellij-idea-1-logo-png-transparent.png&f=1&nofb=1" width="40" height="40"/>
             </td>
         </tr>
