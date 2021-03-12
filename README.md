@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2> Hello, my name is Jake.</h2>
+<h2> Hello, my name is Jake. 👋</h2>
 
 <img align='right' style="border-radius:50%" src="https://avatars.githubusercontent.com/u/47800618?s=460&u=9b483eb7b0cb6bdabaf77ffe65806c42d6b43efd&v=4" width="230">
 
