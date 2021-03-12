@@ -59,7 +59,9 @@
         <h5>Editors/IDEs</h5>
     <table>
         <tr>
-            <td>Visual Studio Code</td>
+            <td align="center">Visual Studio Code<br>
+                <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F674621%2F71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png&f=1&nofb=1" width="40" height="40"/>
+            </td>
             <td>IntelliJ IDEA</td>
         </tr>
     </table>
