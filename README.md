@@ -98,7 +98,7 @@
   </details>
 
 <details>
-  <summary><h3 align="left">Languages and Tools:</h3></summary>
+  <summary><h3>Languages and Tools:</h3></summary>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakewarrenblack&show_icons=true&locale=en&layout=compact" alt="jakewarrenblack" />
 </p>
