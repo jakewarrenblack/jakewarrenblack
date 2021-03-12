@@ -73,12 +73,13 @@
             <td align="center">
                 Adobe Illustrator<br>
                 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </td>
-            <td>
+            <td align="center">
               Adobe Photoshop<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
            </td>
-            <td align="center"><br>
-            Figma<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+            <td align="center">
+            Figma<br>
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
           </td>
         </tr>
     </table>
