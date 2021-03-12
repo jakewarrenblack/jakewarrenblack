@@ -2,7 +2,8 @@
 
 <img align='right' style="border-radius:50%" src="https://user-images.githubusercontent.com/47800618/110992630-13659e00-836e-11eb-949b-7dbc125ca0e3.png" width="230">
 
-<h3 align="left">A creative computing student from Ireland</h3>
+<h3 align="left"><em>Creative Computing student at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
+</em></h3>
 
 
 
