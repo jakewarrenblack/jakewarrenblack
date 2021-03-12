@@ -1,5 +1,5 @@
 <h1 align="left">Hello, my name is Jake <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h4><em>Hoping to pursue a career in web development.</em</h4>
+<h4><em>Studying and hoping to pursue a career in web development.</em</h4>
 <br>
 <br>
 
