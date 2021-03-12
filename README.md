@@ -89,7 +89,7 @@
   </summary>
   <br>
   <table>
-          <td>Web Design & Digital Media (Level 5 Certificate, 2019)</td>
+          <td>Web Design & Digital Media (Level 5 Certificate, 2018)</td>
           <td>Creative Computing (Level 8 Bsc, 2019-Present)</td>
       </tr>
   </table>
@@ -103,7 +103,7 @@
   <table>
       <tr>
           <td>Part-time graphic design for AOSL Ltd (~3 years)</td>
-          <td>Web Design/Digital media grad of the year 2019 (BFEI)</td>
+          <td>Web Design/Digital Media Grad of the Year 2018 (BFEI)</td>
       </tr>
   </table>
 </details>
