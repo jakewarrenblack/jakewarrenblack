@@ -12,8 +12,8 @@
     <summary>
         <b>Skills/Tools</b>
     </summary>
-    <h5>Languages/Frameworks</h5>
     <br>
+    <h5>Languages/Frameworks</h5>
     <table>
         <tr>
             <td>
@@ -54,7 +54,6 @@
         </tr>
     </table>
         <h5>Editors/IDEs</h5>
-    <br>
     <table>
         <tr>
             <td>Visual Studio Code</td>
@@ -62,7 +61,6 @@
         </tr>
     </table>
             <h5>Other tools</h5>
-    <br>
     <table>
         <tr>
             <td>Adobe Illustrator<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </td>
@@ -81,8 +79,8 @@
   <summary>
       <b>Education</b>
   </summary>
+  <br>
   <table>
-      <tr>
           <td>Web Design & Digital Media (Level 5 Certificate, 2019)</td>
           <td>Creative Computing (Level 8 Bsc, 2019-Present)</td>
       </tr>
@@ -93,6 +91,7 @@
   <summary>
       <b>Experience + Awards</b>
   </summary>
+  <br>
   <table>
       <tr>
           <td>Part-time graphic design for AOSL Ltd (~3 years)</td>
