@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jake</h1>
-<h3 align="center">A creative computing student from Ireland</h3>
+<h1 align="left">Hi 👋, I'm Jake</h1>
+<h3 align="left">A creative computing student from Ireland</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jake-wb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jake-wb" height="30" width="40"/>
+<a href="https://linkedin.com/in/jake-wb" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jake-wb" height="30" width="40"/>LinkedIn
   </a>
 </p>
 
