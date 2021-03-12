@@ -12,17 +12,16 @@
 
 
 ***
- <details>
+<details>
   <summary><h1>My skills</summary>
- 
-<table>
-  <tr>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>JavaScript</td>
-    <td>PHP</td>
-    <td>MySQL</td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td>HTML</td>
+      <td>CSS</td>
+      <td>JavaScript</td>
+      <td>PHP</td>
+      <td>MySQL</td>
+    </tr>
+  </table>
 </details>
 
