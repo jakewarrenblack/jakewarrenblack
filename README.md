@@ -51,7 +51,7 @@
     <table>
         <tr>
             <td>Part-time graphic design for AOSL Ltd (~3 years)</td>
-            <td>Web Design and digital media graduate of the year 2019 (BFEI)</td>
+            <td>Web Design/Digital media grad of the year 2019 (BFEI)</td>
         </tr>
     </table>
   </details>
