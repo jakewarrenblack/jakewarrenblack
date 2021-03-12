@@ -13,15 +13,21 @@
 
 ***
 <details>
-  <summary><h1>My skills</summary>
-  <table>
-    <tr>
-      <td>HTML</td>
-      <td>CSS</td>
-      <td>JavaScript</td>
-      <td>PHP</td>
-      <td>MySQL</td>
-    </tr>
-  </table>
-</details>
+    <summary>
+        <b>Skills/Tools</b>
+    </summary>
+    <h5>Languages/Frameworks</h5>
+    <table>
+        <tr>
+            <td>HTML</td>
+            <td>CSS</td>
+            <td>JavaScript</td>
+            <td>PHP</td>
+            <td>MySQL</td>
+            <td>Java</td>
+            <td>Bootstrap</td>
+            <td>Phaser.js</td>
+        </tr>
+    </table>
+  </details>
 
