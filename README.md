@@ -72,33 +72,34 @@
           </td>
         </tr>
     </table>
-  </details>
-    <details>
-    <summary>
-        <b>Education</b>
-    </summary>
-    <table>
-        <tr>
-            <td>Web Design & Digital Media (Level 5 Certificate, 2019)</td>
-            <td>Creative Computing (Level 8 Bsc, 2019-Present)</td>
-        </tr>
-    </table>
-  </details>
-  
-  <details>
-    <summary>
-        <b>Experience + Awards</b>
-    </summary>
-    <table>
-        <tr>
-            <td>Part-time graphic design for AOSL Ltd (~3 years)</td>
-            <td>Web Design/Digital media grad of the year 2019 (BFEI)</td>
-        </tr>
-    </table>
-  </details>
+</details>
 
 <details>
-  <summary><h3>Languages and Tools:</h3></summary>
+  <summary>
+      <b>Education</b>
+  </summary>
+  <table>
+      <tr>
+          <td>Web Design & Digital Media (Level 5 Certificate, 2019)</td>
+          <td>Creative Computing (Level 8 Bsc, 2019-Present)</td>
+      </tr>
+  </table>
+</details>
+  
+<details>
+  <summary>
+      <b>Experience + Awards</b>
+  </summary>
+  <table>
+      <tr>
+          <td>Part-time graphic design for AOSL Ltd (~3 years)</td>
+          <td>Web Design/Digital media grad of the year 2019 (BFEI)</td>
+      </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>Languages and Tools:</b></summary>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakewarrenblack&show_icons=true&locale=en&layout=compact" alt="jakewarrenblack" />
 </p>
