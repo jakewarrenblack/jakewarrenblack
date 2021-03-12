@@ -29,12 +29,18 @@
             <td>Phaser.js</td>
         </tr>
     </table>
-    <br>
         <h5>Editors/IDEs</h5>
     <table>
         <tr>
             <td>Visual Studio Code</td>
             <td>IntelliJ IDEA</td>
+        </tr>
+    </table>
+            <h5>Other tools</h5>
+    <table>
+        <tr>
+            <td>Adobe Illustrator</td>
+            <td>Adobe Photoshop</td>
         </tr>
     </table>
   </details>
