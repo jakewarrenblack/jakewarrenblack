@@ -47,12 +47,20 @@
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
             </td>
             <td align="center">
+                VueJS<br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
+            </td>
+                        <td align="center">
+                Kotlin<br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="vue" width="40" height="40"/>
+            </td>
+            <td align="center">
               Bootstrap<br>
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
             </td>
-            <td align="center">
-              Bash<br>
-              <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+        <td align="center">
+            Flutter<br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
             </td>
         </tr>
     </table>
@@ -64,6 +72,8 @@
             </td>
             <td align="center">IntelliJ IDEA<br>
                 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fintellij-idea-1-logo-png-transparent.png&f=1&nofb=1" width="40" height="40"/>
+            </td>            <td align="center">Android Studio<br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
             </td>
         </tr>
     </table>
@@ -104,6 +114,8 @@
   <br>
   <table>
       <tr>
+          <td>Developer at WebSpace (Current)</td>
+          <td>Student tutor at IADT</td>
           <td>Part-time graphic design for AOSL Ltd (~3 years)</td>
           <td>Web Design/Digital Media Grad of the Year 2018 (BFEI)</td>
       </tr>
