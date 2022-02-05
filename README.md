@@ -1,8 +1,11 @@
+<img align="center" src="https://c.tenor.com/twHWJZmuD4wAAAAi/welcome-dance.gif" width="1200"/>
+<br/>
+
 <h1 width="50" align="center">Hello, my name is Jake <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
 
 
 
-<br/>
+<br/><br/>
 
 
 <img align='right' style="border-radius:50%" src="https://user-images.githubusercontent.com/47800618/110992630-13659e00-836e-11eb-949b-7dbc125ca0e3.png" width="230">
