@@ -1,9 +1,31 @@
-<h1 align="left">Hello, my name is Jake <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 width="50" align="center">Hello, my name is Jake <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+
+
+
+<br/>
+
 
 <img align='right' style="border-radius:50%" src="https://user-images.githubusercontent.com/47800618/110992630-13659e00-836e-11eb-949b-7dbc125ca0e3.png" width="230">
 
 <h3 align="left"><em>Creative Computing student at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
 </em></h3>
+
+<hr/>
+
+<h3>What I'm doing:</h3>
+    <ul> 
+    <li> Working at <a href="https://github.com/web-space-dev">WebSpace</a> </li>
+    <li> I had fun learning Vue, so I'm now trying to get familiar with React</li>
+    <li> Interested in learning more about backend technologies </li>
+</ul>
+
+<h1 style = color: 'yellow'>Fun gif to compensate for how little I have to say about myself!!</h1>
+💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥
+
+![](https://media3.giphy.com/media/xVjFkyqCwSEGA/giphy.gif?cid=790b761184fe132be4f0f0cacd40b42be8f12553ed762dd0&rid=giphy.gif&ct=s)
+
+💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥
+<hr/>
 
 
 
@@ -95,32 +117,6 @@
     </table>
 </details>
 
-<details>
-  <summary>
-      <b>Education</b>
-  </summary>
-  <br>
-  <table>
-          <td>Web Design & Digital Media (Level 5 Certificate, 2018)</td>
-          <td>Creative Computing (Level 8 Bsc, 2019-Present)</td>
-      </tr>
-  </table>
-</details>
-  
-<details>
-  <summary>
-      <b>Experience + Awards</b>
-  </summary>
-  <br>
-  <table>
-      <tr>
-          <td>Developer at WebSpace (Current)</td>
-          <td>Student tutor at IADT</td>
-          <td>Part-time graphic design for AOSL Ltd (~3 years)</td>
-          <td>Web Design/Digital Media Grad of the Year 2018 (BFEI)</td>
-      </tr>
-  </table>
-</details>
 
 <details>
   <summary><b>Stats:</b></summary>
@@ -133,3 +129,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakewarrenblack&" alt="jakewarrenblack" />
 </p>
 </details>
+
+<i>thank you for visiting</i>
+<img width="1200px" src="https://c.tenor.com/Ih76sKhq1xEAAAAj/ferrari-drifting-ferrari-crash.gif"/>
