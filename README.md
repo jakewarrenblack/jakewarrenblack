@@ -3,42 +3,59 @@
 
 <h1 width="50" align="center">Hello, my name is Jake <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
 
-
-
 <br/><br/>
-
 
 <img align='right' style="border-radius:50%" src="https://user-images.githubusercontent.com/47800618/110992630-13659e00-836e-11eb-949b-7dbc125ca0e3.png" width="230">
 
-<h3 align="left"><em>Creative Computing student at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
+<h3 align="left"><em>3rd Year Creative Computing student at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
 </em></h3>
 
 <hr/>
 
 <h3>What I'm doing:</h3>
     <ul> 
-    <li> Working at <a href="https://github.com/web-space-dev">WebSpace</a> </li>
-    <li> I had fun learning Vue, so I'm now trying to get familiar with React</li>
-    <li> Interested in learning more about backend technologies </li>
+    <li> Working at <a href="https://github.com/web-space-dev">WebSpace</a> with technologies including Flutter, React, and Gatsby </li>
+    <li> I had fun learning Vue, so I'm now trying to get the same familiarity with React</li>
+    <li> Missing out on learning Node/Express since I'm on work experience, so I'm interested in learning more about backend technologies, especially since I really liked working with PHP</li>
 </ul>
 
-<h1 style = color: 'yellow'>Fun gif to compensate for how little I have to say about myself!!</h1>
-💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥
-
-![](https://media3.giphy.com/media/xVjFkyqCwSEGA/giphy.gif?cid=790b761184fe132be4f0f0cacd40b42be8f12553ed762dd0&rid=giphy.gif&ct=s)
-
-💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥    💥
 <hr/>
 
+<h3>🌋 My Favourite Projects 🌋</h3>
 
+<a href="https://github.com/jakewarrenblack/vue-countries">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakewarrenblack&repo=vue-countries&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
+</a>
+
+<a href="https://github.com/jakewarrenblack/android-cocktail-search">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakewarrenblack&repo=android-cocktail-search&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Android Cocktail Search" />
+</a>
+
+<a href="https://github.com/jakewarrenblack/flutter-cocktail-search">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakewarrenblack&repo=flutter-cocktail-search&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
+</a>
+
+<a href="https://github.com/jakewarrenblack/php-shopping-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakewarrenblack&repo=php-shopping-site&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
+</a>
+
+<a href="https://github.com/jakewarrenblack/p5.js-ball-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakewarrenblack&repo=p5.js-ball-game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
+</a>
+
+## My Stats
+
+![Jake's github stats](https://github-readme-stats.vercel.app/api?username=jakewarrenblack&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jakewarrenblack&theme=tokyonight" alt="my github streak"/>
+![Jake's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakewarrenblack&theme=tokyonight&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/jake-wb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+---
 
-***
 <details>
     <summary>
         <b>Skills/Tools</b>
@@ -119,19 +136,3 @@
         </tr>
     </table>
 </details>
-
-
-<details>
-  <summary><b>Stats:</b></summary>
-    <br>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakewarrenblack&show_icons=true&locale=en&layout=compact" alt="jakewarrenblack" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakewarrenblack&" alt="jakewarrenblack" />
-</p>
-</details>
-
-<i>thank you for visiting</i>
-<img width="1200px" src="https://c.tenor.com/Ih76sKhq1xEAAAAj/ferrari-drifting-ferrari-crash.gif"/>
