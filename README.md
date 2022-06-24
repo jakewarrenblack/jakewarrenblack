@@ -7,16 +7,17 @@
 
 <img align='right' style="border-radius:50%" src="https://user-images.githubusercontent.com/47800618/110992630-13659e00-836e-11eb-949b-7dbc125ca0e3.png" width="230">
 
-<h3 align="left"><em>3rd Year Creative Computing student at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
+<h3 align="left"><em>Now entering my final year in Creative Computing at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
 </em></h3>
 
 <hr/>
 
 <h3>What I'm doing:</h3>
     <ul> 
-    <li> Working at <a href="https://github.com/web-space-dev">WebSpace</a> with technologies including Flutter, React, and Gatsby </li>
+    <li>Right now I'm interning at Sonalake with the frontend team</li>
+    <li> Recently finished working at <a href="https://github.com/web-space-dev">WebSpace</a>, with technologies including Flutter, React, and Gatsby </li>
     <li> I had fun learning Vue, so I'm now trying to get the same familiarity with React</li>
-    <li> Missing out on learning Node/Express since I'm on work experience, so I'm interested in learning more about backend technologies, especially since I really liked working with PHP</li>
+    <li> Missing out on learning Node/Express since I'm on work experience, so I've been learning more about backend technologies to catch up, especially since I liked PHP so much</li>
 </ul>
 
 <hr/>
@@ -41,6 +42,10 @@
 
 <a href="https://github.com/jakewarrenblack/p5.js-ball-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakewarrenblack&repo=p5.js-ball-game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
+</a>
+
+<a href="https://github.com/jakewarrenblack/mamaddockauthor">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakewarrenblack&repo=mamaddockauthor&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MA Maddock Author" />
 </a>
 
 ## My Stats
