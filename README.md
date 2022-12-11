@@ -7,17 +7,17 @@
 
 <img align='right' style="border-radius:50%" src="https://user-images.githubusercontent.com/47800618/110992630-13659e00-836e-11eb-949b-7dbc125ca0e3.png" width="230">
 
-<h3 align="left"><em>Now entering my final year in Creative Computing at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
+<h3 align="left"><em>In my final year of Creative Computing at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
 </em></h3>
 
 <hr/>
 
 <h3>What I'm doing:</h3>
     <ul> 
-    <li>Right now I'm interning at Sonalake with the frontend team</li>
+    <li>Interned over the summer at Sonalake with the frontend team</li>
     <li> Recently finished working at <a href="https://github.com/web-space-dev">WebSpace</a>, with technologies including Flutter, React, and Gatsby </li>
-    <li> I had fun learning Vue, so I'm now trying to get the same familiarity with React</li>
-    <li> Missing out on learning Node/Express since I'm on work experience, so I've been learning more about backend technologies to catch up, especially since I liked PHP so much</li>
+    <li> Doing a lot more React recently. Right now working on CC Year 4 Advanced JS CA2</li>
+    <li> Trying to get more familiar with using Node/Express and Mongoose</li>
 </ul>
 
 <hr/>
