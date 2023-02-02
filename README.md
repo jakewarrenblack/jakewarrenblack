@@ -7,22 +7,29 @@
 
 <img align='right' style="border-radius:50%" src="https://user-images.githubusercontent.com/47800618/110992630-13659e00-836e-11eb-949b-7dbc125ca0e3.png" width="230">
 
-<h3 align="left"><em>In my final year of Creative Computing at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
+<h3 align="left"><em>Final year Creative Computing student at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
 </em></h3>
 
 <hr/>
 
 <h3>What I'm doing:</h3>
-    <ul> 
+<ul> 
+    <li>Beginning work on my final year project, an animal facial recognition system. <a href="https://forms.office.com/e/bNYjkrZr7U" target="_blank">Take the survey!</a></li>
     <li>Interned over the summer at Sonalake with the frontend team</li>
     <li> Recently finished working at <a href="https://github.com/web-space-dev">WebSpace</a>, with technologies including Flutter, React, and Gatsby </li>
-    <li> Doing a lot more React recently. Right now working on CC Year 4 Advanced JS CA2</li>
-    <li> Trying to get more familiar with using Node/Express and Mongoose</li>
 </ul>
 
 <hr/>
 
 <h3>🌋 My Favourite Projects 🌋</h3>
+
+<a href="https://github.com/jakewarrenblack/fakeflix-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakewarrenblack&repo=fakeflix-frontend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Fakeflix Frontend" />
+</a>
+
+<a href="https://github.com/jakewarrenblack/fakeflix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakewarrenblack&repo=fakeflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Fakeflix Backend" />
+</a>
 
 <a href="https://github.com/jakewarrenblack/vue-countries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakewarrenblack&repo=vue-countries&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
