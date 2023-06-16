@@ -24,42 +24,42 @@
 <h3>🌋 My Favourite Projects 🌋</h3>
 
 <a href="https://github.com/jakewarrenblack/fakeflix-frontend">
-  <img align="center" src="https://github-readme-stats-pzwwk478i-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=fakeflix-frontend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Fakeflix Frontend" />
+  <img align="center" src="https://github-readme-stats-8fn6k19pi-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=fakeflix-frontend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Fakeflix Frontend" />
 </a>
 
 <a href="https://github.com/jakewarrenblack/fakeflix">
-  <img align="center" src="https://github-readme-stats-pzwwk478i-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=fakeflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Fakeflix Backend" />
+  <img align="center" src="https://github-readme-stats-8fn6k19pi-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=fakeflix&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Fakeflix Backend" />
 </a>
 
 <a href="https://github.com/jakewarrenblack/vue-countries">
-  <img align="center" src="https://github-readme-stats-pzwwk478i-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=vue-countries&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
+  <img align="center" src="https://github-readme-stats-8fn6k19pi-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=vue-countries&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
 </a>
 
 <a href="https://github.com/jakewarrenblack/android-cocktail-search">
-  <img align="center" src="https://github-readme-stats-pzwwk478i-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=android-cocktail-search&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Android Cocktail Search" />
+  <img align="center" src="https://github-readme-stats-8fn6k19pi-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=android-cocktail-search&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Android Cocktail Search" />
 </a>
 
 <a href="https://github.com/jakewarrenblack/flutter-cocktail-search">
-  <img align="center" src="https://github-readme-stats-pzwwk478i-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=flutter-cocktail-search&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
+  <img align="center" src="https://github-readme-stats-8fn6k19pi-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=flutter-cocktail-search&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
 </a>
 
 <a href="https://github.com/jakewarrenblack/php-shopping-site">
-  <img align="center" src="https://github-readme-stats-pzwwk478i-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=php-shopping-site&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
+  <img align="center" src="https://github-readme-stats-8fn6k19pi-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=php-shopping-site&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
 </a>
 
 <a href="https://github.com/jakewarrenblack/p5.js-ball-game">
-  <img align="center" src="https://github-readme-stats-pzwwk478i-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=p5.js-ball-game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
+  <img align="center" src="https://github-readme-stats-8fn6k19pi-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=p5.js-ball-game&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Vue Countries" />
 </a>
 
 <a href="https://github.com/jakewarrenblack/mamaddockauthor">
-<img align="center" src="https://github-readme-stats-pzwwk478i-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=mamaddockauthor&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MA Maddock Author" />
+<img align="center" src="https://github-readme-stats-8fn6k19pi-jakewarrenblack.vercel.app/api/pin/?username=jakewarrenblack&repo=mamaddockauthor&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MA Maddock Author" />
 </a>
 
 ## My Stats
 
-![Jake's github stats](https://github-readme-stats-pzwwk478i-jakewarrenblack.vercel.app/api?username=jakewarrenblack&show_icons=true&theme=tokyonight)
+![Jake's github stats](https://github-readme-stats-8fn6k19pi-jakewarrenblack.vercel.app/api?username=jakewarrenblack&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakewarrenblack&theme=tokyonight" alt="my github streak"/>
-![Jake's Top languages](https://github-readme-stats-pzwwk478i-jakewarrenblack.vercel.app/api/top-langs/?username=jakewarrenblack&theme=tokyonight&layout=compact)
+![Jake's Top languages](https://github-readme-stats-8fn6k19pi-jakewarrenblack.vercel.app/api/top-langs/?username=jakewarrenblack&theme=tokyonight&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
