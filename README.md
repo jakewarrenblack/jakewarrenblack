@@ -7,16 +7,17 @@
 
 <img align='right' style="border-radius:50%" src="https://user-images.githubusercontent.com/47800618/110992630-13659e00-836e-11eb-949b-7dbc125ca0e3.png" width="230">
 
-<h3 align="left"><em>Final year Creative Computing student at <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
+<h3 align="left"><em>BSc (Hons) Creative Computing <a href="http://www.iadt.ie/courses/creative-computing" target="_blank">IADT, Dun Laoghaire</a>
 </em></h3>
 
 <hr/>
 
 <h3>What I'm doing:</h3>
 <ul> 
-    <li>Beginning work on my final year project, an animal facial recognition system. <a href="https://forms.office.com/e/bNYjkrZr7U" target="_blank">Take the survey!</a></li>
+    <li>Recently graduated with a first-class honours in Creative Computing from IADT 🎓</a></li>
+    <li>Beginning my MSc in Computer Science at UCD</li>
     <li>Interned over the summer at Sonalake with the frontend team</li>
-    <li> Recently finished working at <a href="https://github.com/web-space-dev">WebSpace</a>, with technologies including Flutter, React, and Gatsby </li>
+<!--     <li>Recently finished working at <a href="https://github.com/web-space-dev">WebSpace</a>, with technologies including Flutter, React, and Gatsby </li> -->
 </ul>
 
 <hr/>
