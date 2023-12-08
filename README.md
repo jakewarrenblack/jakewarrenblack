@@ -14,9 +14,9 @@
 
 <h3>What I'm doing:</h3>
 <ul> 
-    <li>Recently graduated with a first-class honours in Creative Computing from IADT 🎓 <br/>(my thesis project is <a href="https://github.com/jakewarrenblack/RAID">here!)</a></a></li>
-    <li>Beginning my MSc in Computer Science at UCD</li>
-    <li>Currently finishing up a research project for IADT on behalf of <a href="https://roody.ie/">Roody Originals</a></li>
+    <li>Recently graduated with a first-class honours (and student of the year 2023) in Creative Computing from IADT 🎓 <br/>(my thesis project is <a href="https://github.com/jakewarrenblack/RAID">here!)</a></a></li>
+    <li>Currently studying on the MSc in Computer Science at UCD, and demonstrating on the Creative Computing course for years 1 and 2.</li>
+    <li>Just finished up a research project for IADT on behalf of <a href="https://roody.ie/">Roody Originals.</a></li>
 <!--     <li>Recently finished working at <a href="https://github.com/web-space-dev">WebSpace</a>, with technologies including Flutter, React, and Gatsby </li> -->
 </ul>
 
